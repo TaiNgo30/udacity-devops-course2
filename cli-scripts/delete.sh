@@ -1,0 +1,2 @@
+aws cloudformation delete-stack --stack-name devops-course2-infra --region us-east-1 --profile udacity-cloudformation
+aws cloudformation delete-stack --stack-name devops-course2-network --region us-east-1 --profile udacity-cloudformation
